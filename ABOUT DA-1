@@ -1,0 +1,36 @@
+Data Analysis Steps
+The process involved in data analysis involves several different steps:
+The first step is to determine the data requirements or how the data is grouped. Data may be separated by age, demographic, income, or gender. Data values may be numerical or be divided by category.
+The second step in data analytics is the process of collecting it. This can be done through a variety of sources such as computers, online sources, cameras, environmental sources, or through personnel.
+Once the data is collected, it must be organized so it can be analyzed. This may take place on a spreadsheet or other form of software that can take statistical data.
+The data is then cleaned up before analysis. This means it is scrubbed and checked to ensure there is no duplication or error, and that it is not incomplete. This step helps correct any errors before it goes on to a data analyst to be analyzed.
+
+Types of Data Analytics
+Data analytics is broken down into four basic types.
+1.Descriptive analytics: 
+      This describes what has happened over a given period of time. Have the number of views gone up? Are sales stronger this month than last?
+2.Diagnostic analytics:
+      This focuses more on why something happened. This involves more diverse data inputs and a bit of hypothesizing. Did the weather affect beer sales? Did that latest marketing campaign impact sales?
+3.Predictive analytics:
+      This moves to what is likely going to happen in the near term. What happened to sales the last time we had a hot summer? How many weather models predict a hot summer this year?
+4.Prescriptive analytics:
+      This suggests a course of action. If the likelihood of a hot summer is measured as an average of these five weather models is above 58%, we should add an evening shift to the brewery and rent an additional tank to increase output.
+
+Data Analytics Techniques
+There are several different analytical methods and techniques data analysts can use to process data and extract information. Some of the most popular methods are listed below.
+Regression analysis :
+        entails analyzing the relationship between dependent variables to determine how a change in one may affect the change in another.
+Factor analysis:
+        entails taking a large data set and shrinking it to a smaller data set. The goal of this maneuver is to attempt to discover hidden trends that would otherwise have been more difficult to see.
+Cohort analysis
+        it is the process of breaking a data set into groups of similar data, often broken into a customer demographic. This allows data analysts and other users of data analytics to further dive into the numbers relating to a specific subset of data.
+Monte Carlo simulations:
+        model the probability of different outcomes happening. Often used for risk mitigation and loss prevention, these simulations incorporate multiple values and variables and often have greater forecasting capabilities than other data analytics approaches.
+Time series analysis:
+        tracks data over time and solidifies the relationship between the value of a data point and the occurrence of the data point. This data analysis technique is usually used to spot cyclical trends or to project financial forecasts.
+
+Data Analytics Tools
+In addition to a broad range of mathematical and statistical approaches to crunching numbers, data analytics has rapidly evolved in technological capabilities. Today, data analysts have a broad range of software tools to help acquire data, store information, process data, and report findings.
+Data analytics has always had loose ties to spreadsheets and Microsoft Excel. Now, data analysts also often interact with raw programming languages to transform and manipulate databases. Open-source languages such as Python are often utilized. More specific tools for data analytics like R can be used for statistical analysis or graphical modeling.
+Data analysts also have help when reporting or communicating findings. Both Tableau and Power BI are data visualization and analysis tools to compile information, perform data analytics, and distribute results via dashboards and reports.
+Other tools are also emerging to assist data analysts. SAS is an analytics platform that can assist with data mining, while Apache Spark is an open-source platform useful for processing large sets of data. Data analysts now have a broad range of technological capabilities to further enhance the value they deliver to their company.
